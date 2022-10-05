@@ -1,5 +1,5 @@
-# Website with scrolling parallax effect
+# Russian Arctic
 
-Russian Arctic
+## Website with scrolling parallax effect
 
-https://kirich8.github.io/atomflot-parallax/
+[Link](https://kirich8.github.io/atomflot-parallax/)
